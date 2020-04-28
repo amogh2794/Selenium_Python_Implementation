@@ -1,0 +1,15 @@
+2020-04-24 11:20:11,251 :DEBUG :PytestDemo.test_logging :A debug Statement is executed
+2020-04-24 11:20:11,251 :INFO :PytestDemo.test_logging :Some info is printed
+2020-04-24 11:20:11,251 :WARNING :PytestDemo.test_logging :This is warning
+2020-04-24 11:20:11,251 :ERROR :PytestDemo.test_logging :This is an error
+2020-04-24 11:20:11,251 :CRITICAL :PytestDemo.test_logging :There is a critical error
+2020-04-24 11:35:58,716 :INFO : test_editProfile :Amogh :
+2020-04-24 11:35:58,716 :INFO : test_editProfile :Vaidya :
+2020-04-24 11:40:49,627 :INFO : test_editProfile :Amogh :
+2020-04-24 11:40:49,627 :INFO : test_editProfile :Vaidya :
+2020-04-24 11:41:41,487 :INFO : test_editProfile :Amogh :
+2020-04-24 11:41:41,487 :INFO : test_editProfile :Vaidya :
+2020-04-24 11:48:27,915 :INFO : test_editProfile :Amogh :
+2020-04-24 11:48:27,915 :INFO : test_editProfile :Vaidya :
+2020-04-24 11:49:51,150 :INFO : test_editProfile :Amogh :
+2020-04-24 11:49:51,150 :INFO : test_editProfile :Vaidya :
